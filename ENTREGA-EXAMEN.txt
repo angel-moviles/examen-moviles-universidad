@@ -1,0 +1,27 @@
+ESTUDIANTE: adolfo angel esquivel aguilar 
+MATRÍCULA: 222410890
+FECHA: 03/12/2025
+
+REPOSITORIO GITHUB: https://github.com/angel-moviles/examen-moviles-universidad
+
+CARACTERÍSTICAS IMPLEMENTADAS:
+
+1.  EJERCICIO 1: COMPONENTES Y NAVEGACIÓN
+   - Pantalla principal con FlatList de productos
+   - Pantalla de detalle con información completa
+   - Stack Navigator + Tab Navigator
+   - Componentes reutilizables: CustomButton y ProductCard
+
+2. EJERCICIO 2: INTEGRACIÓN API REST
+   - Conexión a FakeStore API (https://fakestoreapi.com)
+   - Peticiones GET para productos
+   - Manejo de estados con useState y useEffect
+   - Loading states y manejo de errores
+
+3. RECURSO DEL DISPOSITIVO: CÁMARA (Opción B)
+   - Uso de expo-image-picker para cámara y galería
+   - Manejo completo de permisos (solicitud nativa iOS/Android)
+   - Captura de fotos con cámara frontal/trasera
+   - Selección de imágenes desde galería
+
+ENLACE DEL REPOSITORIO: https://github.com/angel-moviles/examen-moviles-universidad
